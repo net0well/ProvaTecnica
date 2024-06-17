@@ -1,0 +1,14 @@
+C:\Users\nb_ti07\Desktop\Prova Técnica - Wellington Neto\Questão02\Questão02\obj\Debug\net6.0\Questão02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nb_ti07\Desktop\Prova Técnica - Wellington Neto\Questão02\Questão02\obj\Debug\net6.0\Questão02.AssemblyInfoInputs.cache
+C:\Users\nb_ti07\Desktop\Prova Técnica - Wellington Neto\Questão02\Questão02\obj\Debug\net6.0\Questão02.AssemblyInfo.cs
+C:\Users\nb_ti07\Desktop\Prova Técnica - Wellington Neto\Questão02\Questão02\obj\Debug\net6.0\Questão02.csproj.CoreCompileInputs.cache
+C:\Users\nb_ti07\Desktop\Prova Técnica - Wellington Neto\Questão02\Questão02\bin\Debug\net6.0\Questão02.exe
+C:\Users\nb_ti07\Desktop\Prova Técnica - Wellington Neto\Questão02\Questão02\bin\Debug\net6.0\Questão02.deps.json
+C:\Users\nb_ti07\Desktop\Prova Técnica - Wellington Neto\Questão02\Questão02\bin\Debug\net6.0\Questão02.runtimeconfig.json
+C:\Users\nb_ti07\Desktop\Prova Técnica - Wellington Neto\Questão02\Questão02\bin\Debug\net6.0\Questão02.dll
+C:\Users\nb_ti07\Desktop\Prova Técnica - Wellington Neto\Questão02\Questão02\bin\Debug\net6.0\Questão02.pdb
+C:\Users\nb_ti07\Desktop\Prova Técnica - Wellington Neto\Questão02\Questão02\obj\Debug\net6.0\Questão02.dll
+C:\Users\nb_ti07\Desktop\Prova Técnica - Wellington Neto\Questão02\Questão02\obj\Debug\net6.0\refint\Questão02.dll
+C:\Users\nb_ti07\Desktop\Prova Técnica - Wellington Neto\Questão02\Questão02\obj\Debug\net6.0\Questão02.pdb
+C:\Users\nb_ti07\Desktop\Prova Técnica - Wellington Neto\Questão02\Questão02\obj\Debug\net6.0\Questão02.genruntimeconfig.cache
+C:\Users\nb_ti07\Desktop\Prova Técnica - Wellington Neto\Questão02\Questão02\obj\Debug\net6.0\ref\Questão02.dll
